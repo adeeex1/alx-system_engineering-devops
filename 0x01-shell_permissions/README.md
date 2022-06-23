@@ -1,0 +1,1 @@
+This is a script about shell permissions project on ALX school.
