@@ -1,0 +1,1 @@
+This directory is about shell input/output redirections.
