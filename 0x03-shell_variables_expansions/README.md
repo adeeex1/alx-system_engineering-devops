@@ -1,0 +1,1 @@
+This project is about shell variables and expansions in ALX software engineering program.
